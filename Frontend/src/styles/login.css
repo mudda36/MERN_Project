@@ -1,0 +1,12 @@
+.loginmainimg{
+    background-image: url('G:/Users/user/Desktop/MernFinalProject/Frontend/public/images/pexels-pranav-jain-1707957.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.login{
+    position: relative;
+    top: 80px;
+}

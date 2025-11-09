@@ -1,0 +1,14 @@
+ 
+.banner{
+    background-image: url('G:/Users/user/Desktop/MernFinalProject/Frontend/public/images/chickenBiriyani.jpg');
+}
+
+@media only screen and (max-width:500px){
+    .home{
+        background-color:red;
+        color: aliceblue;
+        font-size:30 ;
+        display: block;
+    }
+} 
+ 

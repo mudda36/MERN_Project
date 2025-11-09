@@ -1,0 +1,12 @@
+.signupmaining{
+    background-image: url('G:/Users/user/Desktop/MernFinalProject/Frontend/public/images/pexels-huỳnh-đạt-2289357.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.signUp{
+    position: relative;
+    top: 80px;
+}
